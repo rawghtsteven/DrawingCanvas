@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">DrawingCanvas</string>
+    <string name="color">颜色</string>
+    <string name="color_red">红色</string>
+    <string name="color_green">绿色</string>
+    <string name="color_blue">蓝色</string>
+    <string name="width">宽度</string>
+    <string name="width_3">3</string>
+    <string name="width_5">5</string>
+    <string name="width_10">10</string>
+    <string name="blur">模糊</string>
+    <string name="emboss">阴影</string>
+    <string name="画图形">画图形</string>
+    <string name="圆形">圆形</string>
+    <string name="长方形">长方形</string>
+    <string name="正方形">正方形</string>
+    <string name="三角形">三角形</string>
+    <string name="任意">任意</string>
+    <string name="默认画笔">默认画笔</string>
+    <string name="清理画布">清理画布</string>
+    <string name="画笔">画笔</string>
+    <string name="铅笔">铅笔</string>
+    <string name="直线">直线</string>
+    <string name="width_7">7</string>
+    <string name="椭圆">椭圆</string>
+</resources>

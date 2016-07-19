@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="width_10" type="id">10</item>
+    <item name="draw_triangle" type="id">draw_triangle</item>
+    <item name="draw_line" type="id">draw_line</item>
+</resources>
